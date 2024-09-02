@@ -65,42 +65,42 @@ Languages: JavaScript, HTML5, CSS3<br>
 UI Components: Material-UI / Bootstrap<br>
 Forms and Validation: Formik, Yup<br>
 
-**Backend**
-Framework: Node.js with Express.js / Django (Python) / Spring Boot (Java)
-Languages: JavaScript (Node.js) / Python (Django) / Java (Spring Boot)
-Database: PostgreSQL / MySQL
-ORM: Sequelize (Node.js) / Django ORM / Hibernate (Java)
-Authentication: JWT (JSON Web Tokens) / OAuth2
+**Backend**<br>
+Framework: Node.js with Express.js / Django (Python) / Spring Boot (Java)<br>
+Languages: JavaScript (Node.js) / Python (Django) / Java (Spring Boot)<br>
+Database: PostgreSQL / MySQL<br>
+ORM: Sequelize (Node.js) / Django ORM / Hibernate (Java)<br>
+Authentication: JWT (JSON Web Tokens) / OAuth2<br>
 
-**AI and Data Processing**
-AI Frameworks: TensorFlow / PyTorch
-Languages: Python
-Data Processing: Pandas, NumPy
-Machine Learning: Scikit-learn
+**AI and Data Processing**<br>
+AI Frameworks: TensorFlow / PyTorch<br>
+Languages: Python<br>
+Data Processing: Pandas, NumPy<br>
+Machine Learning: Scikit-learn<br>
 
-**File Storage and Management**
-Cloud Storage: AWS S3 / Google Cloud Storage / Azure Blob Storage
-File Upload Handling: Multer (Node.js) / Django File Uploads / Spring Boot Multipart
+**File Storage and Management**<br>
+Cloud Storage: AWS S3 / Google Cloud Storage / Azure Blob Storage<br>
+File Upload Handling: Multer (Node.js) / Django File Uploads / Spring Boot Multipart<br>
 
-**Feedback System**
-Feedback Collection: Google Forms / Typeform Integration
-Data Analysis: Python (NLP and sentiment analysis)
+**Feedback System**<br>
+Feedback Collection: Google Forms / Typeform Integration<br>
+Data Analysis: Python (NLP and sentiment analysis)<br>
 
-**Reporting and Visualization**
-Reporting Tools: JasperReports / Apache POI (for Excel reports)
-Visualization: D3.js / Chart.js
-Export Formats: PDF, Excel
+**Reporting and Visualization**<br>
+Reporting Tools: JasperReports / Apache POI (for Excel reports)<br>
+Visualization: D3.js / Chart.js<br>
+Export Formats: PDF, Excel<br>
 
-**Deployment**
-Containerization: Docker
-Orchestration: Kubernetes
-CI/CD: Jenkins / GitHub Actions / GitLab CI
-Hosting: AWS EC2 / Google Cloud Compute Engine / Azure VMs
+**Deployment**<br>
+Containerization: Docker<br>
+Orchestration: Kubernetes<br>
+CI/CD: Jenkins / GitHub Actions / GitLab CI<br>
+Hosting: AWS EC2 / Google Cloud Compute Engine / Azure VMs<br>
 
-**Security**
-Encryption: TLS/SSL for data in transit, AES for data at rest
-Authentication and Authorization: JWT / OAuth2 / Role-Based Access Control (RBAC)
-Vulnerability Scanning: OWASP ZAP / Snyk
+**Security**<br>
+Encryption: TLS/SSL for data in transit, AES for data at rest<br>
+Authentication and Authorization: JWT / OAuth2 / Role-Based Access Control (RBAC)<br>
+Vulnerability Scanning: OWASP ZAP / Snyk<br>
 
  ---
  
