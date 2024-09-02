@@ -19,9 +19,9 @@ Collects candidate details including Name, Email ID, Degree, Specialization, Pho
 Options to upload eCertificates for Certifications, Internships, and Completed Courses.<br>
 <br>
 **2. Batch Allocation Criteria:**<br><br>
-Java Batch: Candidates with AWS certification or any Java certification.
-.NET Batch: Candidates with Azure certification or any .NET certification.
-Data Engineering Batch: Candidates with Python certification.
+Java Batch: Candidates with AWS certification or any Java certification.<br>
+.NET Batch: Candidates with Azure certification or any .NET certification.<br>
+Data Engineering Batch: Candidates with Python certification.<br>
 Batch Sizes: Minimum of 25 candidates, Maximum of 30 candidates.<br>
 <br>
 **3. Workflow:**<br><br>
