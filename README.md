@@ -1,6 +1,6 @@
 ## Skill Navigator Application
 ## Team Name : IT Wizards 
-**Project Overview**
+**Project Overview:**
 The Skill Navigator Application is designed to streamline the training program process by collecting essential candidate details, facilitating batch allocation, tracking training progress, and generating detailed reports. The application aims to enhance the efficiency and effectiveness of training programs through automated batch assignments, progress tracking, and insightful reporting.<br>
 <br>
 **Work Flow Design Using Figma:**
@@ -12,7 +12,7 @@ https://www.figma.com/proto/CKIPj5BFRzTOmKpEC02Jax/SKILL?node-id=49-22&node-type
 ---
 
 
-**Features**<br>
+**Features:**<br>
 **1. Candidate Information Collection:**<br>
 <br>
 Collects candidate details including Name, Email ID, Degree, Specialization, Phone Number, Certifications, Internship Details, Completed Courses, LinkedIn Profile, GitHub Profile, and Programming Languages Known.
@@ -59,45 +59,45 @@ Performance trends, feedback analysis, comparison metrics, and success metrics t
 ## Technical Specification
 # System Architecture
 
-**Frontend**<br>
+**Frontend:**<br>
 Framework: React.js / Angular<br>
 Languages: JavaScript, HTML5, CSS3<br>
 UI Components: Material-UI / Bootstrap<br>
 Forms and Validation: Formik, Yup<br>
 
-**Backend**<br>
+**Backend:**<br>
 Framework: Node.js with Express.js / Django (Python) / Spring Boot (Java)<br>
 Languages: JavaScript (Node.js) / Python (Django) / Java (Spring Boot)<br>
 Database: PostgreSQL / MySQL<br>
 ORM: Sequelize (Node.js) / Django ORM / Hibernate (Java)<br>
 Authentication: JWT (JSON Web Tokens) / OAuth2<br>
 
-**AI and Data Processing**<br>
+**AI and Data Processing:**<br>
 AI Frameworks: TensorFlow / PyTorch<br>
 Languages: Python<br>
 Data Processing: Pandas, NumPy<br>
 Machine Learning: Scikit-learn<br>
 
-**File Storage and Management**<br>
+**File Storage and Management:**<br>
 Cloud Storage: AWS S3 / Google Cloud Storage / Azure Blob Storage<br>
 File Upload Handling: Multer (Node.js) / Django File Uploads / Spring Boot Multipart<br>
 
-**Feedback System**<br>
+**Feedback System:**<br>
 Feedback Collection: Google Forms / Typeform Integration<br>
 Data Analysis: Python (NLP and sentiment analysis)<br>
 
-**Reporting and Visualization**<br>
+**Reporting and Visualization:**<br>
 Reporting Tools: JasperReports / Apache POI (for Excel reports)<br>
 Visualization: D3.js / Chart.js<br>
 Export Formats: PDF, Excel<br>
 
-**Deployment**<br>
+**Deployment:**<br>
 Containerization: Docker<br>
 Orchestration: Kubernetes<br>
 CI/CD: Jenkins / GitHub Actions / GitLab CI<br>
 Hosting: AWS EC2 / Google Cloud Compute Engine / Azure VMs<br>
 
-**Security**<br>
+**Security:**<br>
 Encryption: TLS/SSL for data in transit, AES for data at rest<br>
 Authentication and Authorization: JWT / OAuth2 / Role-Based Access Control (RBAC)<br>
 Vulnerability Scanning: OWASP ZAP / Snyk<br>
