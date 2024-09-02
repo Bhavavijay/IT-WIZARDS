@@ -57,8 +57,8 @@ Performance trends, feedback analysis, comparison metrics, and success metrics t
 
 ---
 
-## Technical Specification
-# System Architecture
+# Technical Specification
+## System Architecture
 
 **Frontend:**<br>
 Framework: React.js / Angular<br>
