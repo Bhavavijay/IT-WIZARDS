@@ -55,8 +55,6 @@ Batch Comparison Report: Compare performance across batches and provide recommen
 Performance trends, feedback analysis, comparison metrics, and success metrics to improve training programs.<br>
 <br>
 
----
-
 # Technical Specification
 ## System Architecture
 
