@@ -97,18 +97,18 @@ Vulnerability Scanning: OWASP ZAP / Snyk
  
 ## Detailed Components ##
 
-**Frontend:** Responsive UI, interactive forms, and admin dashboard.
-**Backend:** RESTful API, batch allocation logic, training progress tracking.
-**AI and Data Processing:** Recommendations and feedback analysis.
-**File Storage and Management:** Secure file upload and scalable storage.
-**Feedback System:** Automated feedback collection and sentiment analysis.
-**Reporting and Visualization:** Automated report generation and data visualization.
-**Deployment:** Docker, Kubernetes, CI/CD, and hosting solutions.
-**Security:** Data encryption, authentication mechanisms, and access control.
+**Frontend:** Responsive UI, interactive forms, and admin dashboard.<br>
+**Backend:** RESTful API, batch allocation logic, training progress tracking.<br>
+**AI and Data Processing:** Recommendations and feedback analysis.<br>
+**File Storage and Management:** Secure file upload and scalable storage.<br>
+**Feedback System:** Automated feedback collection and sentiment analysis.<br>
+**Reporting and Visualization:** Automated report generation and data visualization.<br>
+**Deployment:** Docker, Kubernetes, CI/CD, and hosting solutions.<br>
+**Security:** Data encryption, authentication mechanisms, and access control.<br>
 
 ## Implementation ##
-**Data Collection:** Automated from submissions and feedback.
-**Data Processing:** Aggregate, analyze, and visualize data.
-**Reporting Tools:** Generate PDF and Excel reports.
-**AI Analysis:** Implement recommendations and insights.
-**Feedback Integration:** Continuously improve based on feedback.
+**Data Collection:** Automated from submissions and feedback.<br>
+**Data Processing:** Aggregate, analyze, and visualize data.<br>
+**Reporting Tools:** Generate PDF and Excel reports.<br>
+**AI Analysis:** Implement recommendations and insights.<br>
+**Feedback Integration:** Continuously improve based on feedback.<br>
