@@ -100,8 +100,6 @@ Hosting: AWS EC2 / Google Cloud Compute Engine / Azure VMs<br>
 Encryption: TLS/SSL for data in transit, AES for data at rest<br>
 Authentication and Authorization: JWT / OAuth2 / Role-Based Access Control (RBAC)<br>
 Vulnerability Scanning: OWASP ZAP / Snyk<br>
-
- ---
  
 ## Detailed Components ##
 
