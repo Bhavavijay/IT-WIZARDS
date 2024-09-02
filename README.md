@@ -2,8 +2,10 @@
 ## Team Name : IT Wizards 
 **Project Overview**
 The Skill Navigator Application is designed to streamline the training program process by collecting essential candidate details, facilitating batch allocation, tracking training progress, and generating detailed reports. The application aims to enhance the efficiency and effectiveness of training programs through automated batch assignments, progress tracking, and insightful reporting.<br>
+<br>
 **Work Flow Design Using Figma:**
 The views of Skill Navigator Application using Figma are uploaded in a Desktop View Link.
+<br>
 Desktop View:
 https://www.figma.com/proto/CKIPj5BFRzTOmKpEC02Jax/SKILL?node-id=49-22&node-type=FRAME&t=T0N3JGgC8nC0ROJ7-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=49%3A22
 
