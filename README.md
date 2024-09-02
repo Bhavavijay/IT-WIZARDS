@@ -12,11 +12,11 @@ https://www.figma.com/proto/CKIPj5BFRzTOmKpEC02Jax/SKILL?node-id=49-22&node-type
 ---
 
 
-**Features**
-**1. Candidate Information Collection:**
+**Features**<br>
+**1. Candidate Information Collection:**<br>
 Collects candidate details including Name, Email ID, Degree, Specialization, Phone Number, Certifications, Internship Details, Completed Courses, LinkedIn Profile, GitHub Profile, and Programming Languages Known.
 Options to upload eCertificates for Certifications, Internships, and Completed Courses.<br>
-**2. Batch Allocation Criteria:**
+**2. Batch Allocation Criteria:**<br>
 Java Batch: Candidates with AWS certification or any Java certification.
 .NET Batch: Candidates with Azure certification or any .NET certification.
 Data Engineering Batch: Candidates with Python certification.
