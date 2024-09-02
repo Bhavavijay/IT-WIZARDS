@@ -14,36 +14,45 @@ https://www.figma.com/proto/CKIPj5BFRzTOmKpEC02Jax/SKILL?node-id=49-22&node-type
 
 **Features**<br>
 **1. Candidate Information Collection:**<br>
+<br>
 Collects candidate details including Name, Email ID, Degree, Specialization, Phone Number, Certifications, Internship Details, Completed Courses, LinkedIn Profile, GitHub Profile, and Programming Languages Known.
 Options to upload eCertificates for Certifications, Internships, and Completed Courses.<br>
-**2. Batch Allocation Criteria:**<br>
+<br>
+**2. Batch Allocation Criteria:**<br><br>
 Java Batch: Candidates with AWS certification or any Java certification.
 .NET Batch: Candidates with Azure certification or any .NET certification.
 Data Engineering Batch: Candidates with Python certification.
 Batch Sizes: Minimum of 25 candidates, Maximum of 30 candidates.<br>
-**3. Workflow**
+<br>
+**3. Workflow**<br><br>
 Collect candidate details.
 Process batch allocation based on specific criteria.
 Track learning progress and generate reports.<br>
-**4. Training Progress Tracking**
+<br>
+**4. Training Progress Tracking**<br><br>
 Capture self-reported course completion percentages.
 Record scores for Multiple-Choice Questions (MCQs).
 Record scores for project evaluations.<br>
-**5. AI Recommendations**
+<br>
+**5. AI Recommendations**<br><br>
 Analyze candidate scores and recommend topics for further focus.
 Provide personalized learning paths and improvement strategies.<br>
-**6. Feedback Collection**
+<br>
+**6. Feedback Collection**<br><br>
 Automate feedback collection post-topic completion.
 Analyze feedback and generate actionable insights.<br>
-**7. Reports**
+<br>
+**7. Reports**<br><br>
 Individual Candidate Report: Detailed performance report including self-reported percentages, MCQ scores, project evaluations, AI recommendations, and feedback.
 Trainers' Feedback Analysis Report: Aggregated feedback for trainers with insights and recommendations.
 Batch-wise Score Card: Performance report for each batch including average scores, completion percentages, and comparative analysis.
 College-wise Score Card: Performance comparison of candidates from different colleges.
 Topper List: Identify top-performing candidates.
 Batch Comparison Report: Compare performance across batches and provide recommendations.<br>
-**8. Analysis**
+<br>
+**8. Analysis**<br><br>
 Performance trends, feedback analysis, comparison metrics, and success metrics to improve training programs.<br>
+<br>
 
 ---
 
